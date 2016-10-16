@@ -1,4 +1,8 @@
 # MyJSRat.py
+
+把class合並到主文件中，方便git clone。
+
+
 ## 0x00 JSbackdoor
 关于javascript backdoor 请查看：
 
