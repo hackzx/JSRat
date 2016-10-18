@@ -2,6 +2,7 @@
 #
 # JSRat Server
 # By: Evi1cg
+# From: https://github.com/Ridter/MyJSRat
 #
 import optparse, os, socket, SocketServer, sys , re
 from BaseHTTPServer import BaseHTTPRequestHandler, HTTPServer
